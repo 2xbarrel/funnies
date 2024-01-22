@@ -1,0 +1,22 @@
+pre {
+    color: #0092cc;
+    height: 100%;
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+h2 {
+    color: #0092cc;
+    height: 100%;
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+body {
+    background-color: black;
+}
+

@@ -1,22 +1,18 @@
-pre {
-    color: #0092cc;
-    height: 100%;
-    width: 100%;
-    display: flex;
-    align-items: center;
-    justify-content: center;
-}
-
-h2 {
-    color: #0092cc;
-    height: 100%;
-    width: 100%;
-    display: flex;
-    align-items: center;
-    justify-content: center;
-}
-
 body {
     background-color: black;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
 }
 
+pre {
+    color: white;
+}
+
+.title {
+    color: rgb(0, 153, 255);
+}
+
+.text {
+    color: rgb(30, 255, 0);
+}

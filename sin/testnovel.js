@@ -58,6 +58,7 @@ const extensions = {
     "ANGRY": ".png",
     "CONFUSED": ".png",
     "CRY": ".png",
+    "HELLNA": ".png",
     // swaglineswaglineswaglineswaglineswag
     "SCARED": ".gif",
     "LAUGH": ".gif",
